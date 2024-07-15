@@ -1,0 +1,14 @@
+/Users/jb/Dev/ownproject/command-line/echor/target/debug/deps/libassert_cmd-ec001f52a486dd61.rmeta: /Users/jb/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.14/src/lib.rs /Users/jb/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.14/src/assert.rs /Users/jb/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.14/src/cargo.rs /Users/jb/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.14/src/cmd.rs /Users/jb/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.14/src/output.rs /Users/jb/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.14/src/color.rs /Users/jb/Dev/ownproject/command-line/echor/target/debug/build/assert_cmd-93706f7fe28be7c6/out/current_target.txt /Users/jb/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.14/src/../README.md
+
+/Users/jb/Dev/ownproject/command-line/echor/target/debug/deps/assert_cmd-ec001f52a486dd61.d: /Users/jb/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.14/src/lib.rs /Users/jb/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.14/src/assert.rs /Users/jb/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.14/src/cargo.rs /Users/jb/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.14/src/cmd.rs /Users/jb/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.14/src/output.rs /Users/jb/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.14/src/color.rs /Users/jb/Dev/ownproject/command-line/echor/target/debug/build/assert_cmd-93706f7fe28be7c6/out/current_target.txt /Users/jb/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.14/src/../README.md
+
+/Users/jb/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.14/src/lib.rs:
+/Users/jb/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.14/src/assert.rs:
+/Users/jb/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.14/src/cargo.rs:
+/Users/jb/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.14/src/cmd.rs:
+/Users/jb/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.14/src/output.rs:
+/Users/jb/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.14/src/color.rs:
+/Users/jb/Dev/ownproject/command-line/echor/target/debug/build/assert_cmd-93706f7fe28be7c6/out/current_target.txt:
+/Users/jb/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.14/src/../README.md:
+
+# env-dep:OUT_DIR=/Users/jb/Dev/ownproject/command-line/echor/target/debug/build/assert_cmd-93706f7fe28be7c6/out
